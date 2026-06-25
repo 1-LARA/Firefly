@@ -40,21 +40,21 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 	links.push(LinkPresets.Guestbook);
 
 	// 我的及其子菜单
-	links.push({
-		name: "我的",
-		url: "#",
-		icon: "material-symbols:person",
-		children: [
-			// 相册
-			LinkPresets.Gallery,
+	// links.push({
+	// 	name: "我的",
+	// 	url: "#",
+	// 	icon: "material-symbols:person",
+	// 	children: [
+	// 		// 相册
+	// 		LinkPresets.Gallery,
 
-			// 追番
-			LinkPresets.Anime,
+	// 		// 追番
+	// 		LinkPresets.Anime,
 
-			// 番组计划
-			LinkPresets.Bangumi,
-		],
-	});
+	// 		// 番组计划
+	// 		LinkPresets.Bangumi,
+	// 	],
+	// });
 
 	// 关于及其子菜单
 	links.push({
@@ -63,7 +63,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		icon: "material-symbols:info",
 		children: [
 			// 打赏
-			LinkPresets.Sponsor,
+			//LinkPresets.Sponsor,
 
 			// 关于页面
 			LinkPresets.About,

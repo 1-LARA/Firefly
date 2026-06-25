@@ -38,7 +38,7 @@ export const spineModelConfig: SpineModelConfig = {
 	// 交互配置
 	interactive: {
 		// 交互功能开关
-		enabled: true,
+		enabled: false,
 		// 点击时随机播放的动画列表
 		clickAnimations: [
 			"emoji_0",
@@ -50,14 +50,7 @@ export const spineModelConfig: SpineModelConfig = {
 		],
 		// 点击时随机显示的文字消息
 		clickMessages: [
-			"你好呀！我是流萤~",
-			"今天也要加油哦！✨",
-			"想要一起去看星空吗？🌟",
-			"记得要好好休息呢~",
-			"有什么想对我说的吗？💫",
-			"让我们一起探索未知的世界吧！🚀",
-			"每一颗星星都有自己的故事~⭐",
-			"希望能带给你温暖和快乐！💖",
+			"君が真冬に来たら.",
 		],
 		// 文字显示时间（毫秒）
 		messageDisplayTime: 3000,
