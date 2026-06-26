@@ -244,14 +244,6 @@ export const zh_TW: Translation = {
 	// 置頂
 	[Key.pinned]: "置頂",
 
-	// 相關文章推薦
-	[Key.relatedPosts]: "相關文章",
-	[Key.randomPosts]: "隨機文章",
-	[Key.smartRecommend]: "智慧推薦",
-	[Key.randomRecommend]: "隨機推薦",
-	[Key.noRelatedPosts]: "暫無相關文章",
-	[Key.noRandomPosts]: "暫無隨機文章",
-
 	// 加密
 	[Key.postEncrypted]: "本文已加密",
 

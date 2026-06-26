@@ -250,14 +250,6 @@ export const en: Translation = {
 	// Pinned
 	[Key.pinned]: "Pinned",
 
-	// Related Posts
-	[Key.relatedPosts]: "Related Posts",
-	[Key.randomPosts]: "Random Posts",
-	[Key.smartRecommend]: "Smart",
-	[Key.randomRecommend]: "Random",
-	[Key.noRelatedPosts]: "No related posts",
-	[Key.noRandomPosts]: "No random posts",
-
 	// Encrypted
 	[Key.postEncrypted]: "This post is encrypted",
 
