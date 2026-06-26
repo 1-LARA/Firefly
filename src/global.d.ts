@@ -4,7 +4,7 @@ declare global {
 			init?: () => void;
 		};
 	}
-
+}
 	interface Window {
 		// biome-ignore lint/suspicious/noExplicitAny: External library
 		swup: any;
@@ -19,3 +19,4 @@ declare global {
 				}>;
 			}>;
 		};
+	}
