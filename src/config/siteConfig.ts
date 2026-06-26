@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "my myth...",
 
 	// 站点 URL
-	site_url: "https://1-lara.github.io",
+	site_url: "https://1-LARA.github.io",
 
 	// 站点描述
 	description:
