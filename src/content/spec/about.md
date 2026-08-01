@@ -1,6 +1,8 @@
 # 关于我 / About Me
 
-你好！我是 **风里猫** 。
+此博客作个人知识整理和写作用
+**Contact me:**
+[Email](windycatelara@gmail.com)
 
 ## References
 
