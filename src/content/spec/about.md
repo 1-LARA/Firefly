@@ -1,8 +1,10 @@
 # 关于我 / About Me
 
 此博客作个人知识整理和写作用
+
 **Contact me:**
-[Email](windycatelara@gmail.com)
+
+Email: windycatelara@gmail.com
 
 ## References
 
